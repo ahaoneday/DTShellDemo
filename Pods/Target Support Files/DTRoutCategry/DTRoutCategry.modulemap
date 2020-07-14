@@ -1,0 +1,6 @@
+framework module DTRoutCategry {
+  umbrella header "DTRoutCategry-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,25 @@
+PODS:
+  - DTRoutCategry (0.1.0):
+    - SDWebImage
+  - SDWebImage (5.8.3):
+    - SDWebImage/Core (= 5.8.3)
+  - SDWebImage/Core (5.8.3)
+
+DEPENDENCIES:
+  - DTRoutCategry (from `Lib/DTRoutCategry`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  DTRoutCategry:
+    :path: Lib/DTRoutCategry
+
+SPEC CHECKSUMS:
+  DTRoutCategry: 9af46fb7cfd77c966fd8e8ac16b69ba834804583
+  SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
+
+PODFILE CHECKSUM: a17cc18131633604797a301e4bc9da0ab0de50a3
+
+COCOAPODS: 1.7.5
